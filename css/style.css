@@ -262,4 +262,7 @@
         padding: 0px;
         text-align: left;
     }
+    .text-footer{
+        font-size: 14px;
+    }
 }
